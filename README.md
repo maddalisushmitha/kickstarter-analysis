@@ -50,8 +50,8 @@ Total Projects:
 	
 Percentage successful:
 	=ROUND((B7/E7),2)
-	
-	![Countifs Calculations](https://github.com/maddalisushmitha/kickstarter-analysis/blob/main/images_for_readme/Analysis%20through%20Goals_1.png)
+
+![Countifs Calculations](https://github.com/maddalisushmitha/kickstarter-analysis/blob/main/images_for_readme/Analysis%20through%20Goals_1.png)
 
 2. Percentage format id changed by number option of Home tab
 
