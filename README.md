@@ -13,7 +13,7 @@ Projecting the success rate of Louise`s play Fever in Crowdfunding campaign base
 
 1. I have created pivot table by selecting the Kickstarter data and insert tab
 
-![Pivot table creation](https://github.com/maddalisushmitha/kickstarter-analysis/blob/main/images_for_readme/Analysis%20through%20Launched%20dates_1.png)
+	![Pivot table creation](https://github.com/maddalisushmitha/kickstarter-analysis/blob/main/images_for_readme/Analysis%20through%20Launched%20dates_1.png)
 
 2. In the Pivot table Fields column and rows are filled with outcomes and Launched dates as the analysis is based on them. The values are filled based on  count of outcomes in order  to see the success count. Theater can be seen after Parent category is placed in filters and also Years to know is also placed in filters to understand which years success rate is high.
 
