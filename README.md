@@ -4,7 +4,7 @@
 
 ## Overview and Purpose of Project:
 
-	Projecting the success rate of Louise`s play Fever in Crowdfunding campaign based on launch dates and funding goals with the help of Kickstarter data. 
+Projecting the success rate of Louise`s play Fever in Crowdfunding campaign based on launch dates and funding goals with the help of Kickstarter data. 
 
 
 ## Analysis and Challenges:
