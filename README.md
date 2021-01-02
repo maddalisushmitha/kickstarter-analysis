@@ -22,7 +22,7 @@ Projecting the success rate of Louise`s play Fever in Crowdfunding campaign base
 	![Applying Filters](https://github.com/maddalisushmitha/kickstarter-analysis/blob/main/images_for_readme/Analysis%20through%20Launched%20dates_3.png)
   
 3. In order to get better understanding of the filtered data, Chart was created by selecting pivot table, then Analysis tab is used followed by Line and Mark chart
- ![Creation of Chart](https://github.com/maddalisushmitha/kickstarter-analysis/blob/main/images_for_readme/Analysis%20through%20Launched%20dates_4.png)
+	![Creation of Chart](https://github.com/maddalisushmitha/kickstarter-analysis/blob/main/images_for_readme/Analysis%20through%20Launched%20dates_4.png)
 
 
 ### Challenges for Outcomes by Launch Date Analysis:
