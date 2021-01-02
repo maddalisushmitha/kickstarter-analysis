@@ -1,4 +1,4 @@
-# kickstartind with Excel
+# kickstarting with Excel
 
 # Analysis Report on Kickstarter Campaign 
 
