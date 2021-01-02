@@ -20,11 +20,11 @@ Projecting the success rate of Louise`s play Fever in Crowdfunding campaign base
 
 ### Challenges for Outcomes by Launch Date Analysis:
 
-	1. Sorting columns labels column wise for successful, failed and canceled columns
-	2. Confused between years column and the automatically created years column when Date Created Conversion column was placed in Row field of pivot table field.
+1. Sorting columns labels column wise for successful, failed and canceled columns
+2. Confused between years column and the automatically created years column when Date Created Conversion column was placed in Row field of pivot table field.
 
 ### Analysis of Outcomes Based on Goals:
-	1. Columns are filled using countifs(), sum() and round functions
+1. Columns are filled using countifs(), sum() and round functions using below code
 
 #### Codes :
 	
