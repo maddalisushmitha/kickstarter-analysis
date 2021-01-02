@@ -10,11 +10,12 @@ Projecting the success rate of Louise`s play Fever in Crowdfunding campaign base
 ## Analysis and Challenges:
 
 ### Analysis of Outcomes Based on Launch Date:
-	1. I have created pivot table by selecting the Kickstarter data and insert tab.
 
-	2. In the Pivot table Fields column and rows are filled with outcomes and Launched dates as the analysis is based on them. The values are filled based on  count of outcomes in order  to see the success count. Theater can be seen after Parent category is placed in filters and also Years to know is also placed in filters to understand which years success rate is high.
+1. I have created pivot table by selecting the Kickstarter data and insert tab.
 
-	3. In order to get better understanding of the filtered data, Chart was created by selecting pivot table, then Analysis tab is used followed by Line and Mark chart.
+2. In the Pivot table Fields column and rows are filled with outcomes and Launched dates as the analysis is based on them. The values are filled based on  count of outcomes in order  to see the success count. Theater can be seen after Parent category is placed in filters and also Years to know is also placed in filters to understand which years success rate is high.
+
+3. In order to get better understanding of the filtered data, Chart was created by selecting pivot table, then Analysis tab is used followed by Line and Mark chart
 
 
 ### Challenges for Outcomes by Launch Date Analysis:
