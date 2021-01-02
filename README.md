@@ -26,7 +26,7 @@ Projecting the success rate of Louise`s play Fever in Crowdfunding campaign base
 ### Analysis of Outcomes Based on Goals:
 	1. Columns are filled using countifs(), sum() and round functions
 
-	Codes :
+#### Codes :
 	
 	Number Successful:
 	=COUNTIFS(Kickstarter!$D:$D,"<1000",Kickstarter!$F:$F, "successful",Kickstarter!$R:$R,"plays")
